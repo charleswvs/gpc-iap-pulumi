@@ -1,0 +1,12 @@
+{
+    "name": "gpc-login",
+    "main": "index.ts",
+    "devDependencies": {
+        "@types/node": "^16"
+    },
+    "dependencies": {
+        "@pulumi/gcp": "^6.55.1",
+        "@pulumi/pulumi": "^3.0.0",
+        "@pulumi/random": "^4.13.0"
+    }
+}
